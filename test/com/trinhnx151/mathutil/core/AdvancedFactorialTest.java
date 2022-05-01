@@ -50,6 +50,5 @@ public class AdvancedFactorialTest {
     public void checkFactorialGivenRightArgumentReturnsWell() {
         assertEquals(expected, getFactorial(n));
     }
-    
-   
+       
 }
