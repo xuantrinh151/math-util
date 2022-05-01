@@ -5,3 +5,7 @@
 * The JUnit Test source code to implement TDD technique
 * The .gitignore & README.md files to manage this repo itself
 * ...
+### Screen shot:
+![JUnit-TDD](https://github.com/xuantrinh151/math-util/blob/main/image/math-util-intro.png)
+
+© 2022 xuân-trình | fb/xuantrinh151
