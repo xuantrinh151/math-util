@@ -1,3 +1,4 @@
+[![Math-Util With CI | © 2022 by xuantrinh](https://github.com/xuantrinh151/math-util/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/xuantrinh151/math-util/actions/workflows/math-util-ci.yml)
 # Welcome to Math-Util Repository
 
 ### You will find in this repo the following stuff:
